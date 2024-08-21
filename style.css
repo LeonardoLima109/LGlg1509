@@ -1,0 +1,38 @@
+body {
+   
+   background-color: rgb(175, 3, 64);
+  
+}
+
+header{
+    font-size: 30px;
+    font-family: "Matemasie", sans-serif;
+    color: aliceblue;
+    text-align: center;
+    
+}
+
+h1{
+    color: aliceblue;
+    font-family: "Bungee Tint", sans-serif;
+    text-align: center;
+    font-variant-ligatures:no-discretionary-ligatures;
+}
+p{
+    color: aliceblue;
+    font-family: "Matemasie", sans-serif;
+    text-align: center;
+}
+
+iframe{
+
+    margin-left: 32%;
+    border-radius: 15px;
+    position: relative;
+    overflow: hidden;
+
+}
+
+hr{
+    border-top: 5px;
+}
